@@ -1,0 +1,26 @@
+{
+  "name": "datatypes",
+  "version": "1.0.0",
+  "description": "Andela datatypes lab",
+  "main": "app/library.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "mocha tests\tests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TUgonna/dataTypes.git"
+  },
+  "author": "Ugonna Thelma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TUgonna/dataTypes/issues"
+  },
+  "homepage": "https://github.com/TUgonna/dataTypes#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
